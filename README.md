@@ -8,8 +8,9 @@
 <h1>GrabeGrabe</h1> 
 <img src="https://vortix-json.github.io/GrapeGrabe/img/logo%20grape.jpg" alt="store" width="800" height="200" />
 GrapeGrabe is a repository for my informatic life.
-
-<h2> Présentation :</h2>
+<h1> TigerBot</h1>
+<h1> JBA </h1>
+<h2> Présentation TigerBot :</h2>
     Alors tout d'abord, Tiger Bot c’est quoi ??? C’est un Bot pour discord codé en Javascript, et opensource. </br>
     Il est en constante évolution, grâce aux suggestions des utilisateurs du bot.
 
