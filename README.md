@@ -4,10 +4,11 @@ GrapeGrabe is a repository for my informatic life.
 
 
 ## Web site : 
-Visit our web site : https://vortix-json.github.io/GrapeGrabe/index.html
+- Our web site : https://vortix-json.github.io/GrapeGrabe/index.html
 
 ## Join our discord : 
-[Discord]([docs/CONTRIBUTING.md](https://discord.gg/aSAGH34p76)https://discord.gg/aSAGH34p76)
-<details>
-  come in my discord to support me !
-<d/etails>
+- Invite link : https://discord.gg/aSAGH34p76
+- Bot invite link : https://dgxy.link//invitationsTigerBot
+<details>come in my discord to support me !<summary>
+  Support me
+</details>
