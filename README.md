@@ -9,6 +9,6 @@ GrapeGrabe is a repository for my informatic life.
 ## Join our discord : 
 - Invite link : https://discord.gg/aSAGH34p76
 - Bot invite link : https://dgxy.link//invitationsTigerBot
-<details>come in my discord to support me !<summary>
-  Support me
+<details> Come in my discord to support me !<summary>
+    Support me
 </details>
